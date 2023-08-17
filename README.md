@@ -1,8 +1,4 @@
-////////////////////////
-
-Header 1:
-
-////////////////////////
+///////// Header 1: /////////
 
 Usage:
 
@@ -22,11 +18,7 @@ Result:
 # ReadMeTutor
 
 
-////////////////////////
-
-Insert image:
-
-////////////////////////
+///////// Insert image /////////
 
 Usage: 
 
@@ -57,11 +49,7 @@ and change size:
 [1]: https://i.stack.imgur.com/tnpHr.jpg?s=512
 [2]: https://i.stack.imgur.com/tnpHr.jpg?s=256
 
-////////////////////////
-
-Insert video:
-
-////////////////////////
+///////// Insert video: /////////
 
 https://user-images.githubusercontent.com/1991296/224442907-7693d4be-acaa-4e01-8b4f-add84093ffff.mp4
 
