@@ -20,6 +20,13 @@ Result:
 
 ///////// Insert image /////////
 
+Image hostings:
+
+https://imgur.com/
+
+https://img.hurtom.com/
+
+
 Usage: 
 
 Insert original size:
