@@ -3,7 +3,7 @@
 Usage:
 
 ```
-# ReadMeTotor
+# ReadMeTutor
 ```
 
 or 
