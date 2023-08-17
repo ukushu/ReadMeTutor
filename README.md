@@ -73,5 +73,13 @@ Just insert direct link to mp4 video:
 https://user-images.githubusercontent.com/1991296/224442907-7693d4be-acaa-4e01-8b4f-add84093ffff.mp4
 ```
 
+or just insert direct link on youtube:
 
+```
+<video src='your URL here' width=180/>
+```
 
+<video src="https://drive.google.com/uc?export=download&id=1YBta3aHQGKrGPlgan5RLz-UZUqI7VwRg" type='video/mp4'></video>
+
+also we can share video using special repo: https://www.geeksforgeeks.org/how-to-add-videos-on-readme-md-file-in-a-github-repository/?id=discuss 
+and after this use it inside of any ReadMe from other repositories
