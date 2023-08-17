@@ -57,6 +57,14 @@ Insert with changed size:
 [1]: https://i.stack.imgur.com/tnpHr.jpg?s=64
 [2]: https://i.stack.imgur.com/tnpHr.jpg?s=128
 
+
+also you can use `<img> html tag`
+
+```
+<img src="https://i.stack.imgur.com/tnpHr.jpg" width="220" height="60">
+```
+<img src="https://i.stack.imgur.com/tnpHr.jpg" width="220" height="60">
+
 ///////// Embed video /////////
 
 Just insert direct link to mp4 video:
