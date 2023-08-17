@@ -40,14 +40,10 @@ Insert with changed size:
 [5]: https://i.stack.imgur.com/tnpHr.jpg?s=512
 ```
 
-and change size:
-
 [![enter image description here][2]][2]
 
-[![enter image description here][1]][1]
-
-[1]: https://i.stack.imgur.com/tnpHr.jpg?s=512
-[2]: https://i.stack.imgur.com/tnpHr.jpg?s=256
+[1]: https://i.stack.imgur.com/tnpHr.jpg?s=32
+[2]: https://i.stack.imgur.com/tnpHr.jpg?s=128
 
 ///////// Insert video: /////////
 
