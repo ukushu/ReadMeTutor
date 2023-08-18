@@ -3,20 +3,36 @@
 Usage:
 
 ```
-# ReadMeTutor
-```
-
-or 
-
-```
-ReadMeTutor
-==
+# A first-level heading
+## A second-level heading
+### A third-level heading
 ```
 
 Result:
 
-# ReadMeTutor
+# A first-level heading
+## A second-level heading
+### A third-level heading
 
+
+///////// Commented text /////////
+```
+<!-- This content will not appear in the rendered Markdown -->
+<!-- Commented text -->
+```
+<!-- This content will not appear in the rendered Markdown -->
+
+
+///////// Task Lists /////////
+```
+- [x] task 1
+
+- [ ] task 2
+```
+
+- [x] task 1
+
+- [ ] task 2
 
 ///////// Insert image /////////
 
