@@ -15,15 +15,31 @@ Result:
 ### A third-level heading
 
 
-///////// Commented text /////////
+
+
+
+</br></br></br>///////// Strikethrough /////////
+
+Usage:
+
+```
+<s>hello world</s>
+```
+
+Result:
+
+<s>hello world</s>
+
+</br></br></br>///////// Commented text /////////
 ```
 <!-- This content will not appear in the rendered Markdown -->
 <!-- Commented text -->
 ```
+Result:
 <!-- This content will not appear in the rendered Markdown -->
 
 
-///////// Task Lists /////////
+</br></br></br>///////// Task Lists /////////
 ```
 - [x] task 1
 
@@ -34,7 +50,7 @@ Result:
 
 - [ ] task 2
 
-///////// Insert image /////////
+</br></br></br>///////// Insert image /////////
 
 Image hostings:
 
@@ -81,7 +97,11 @@ also you can use `<img> html tag`
 ```
 <img src="https://i.stack.imgur.com/tnpHr.jpg" width="220" height="60">
 
-///////// Embed video /////////
+
+
+
+
+</br></br></br>///////// Embed video /////////
 
 Just insert direct link to mp4 video:
 
