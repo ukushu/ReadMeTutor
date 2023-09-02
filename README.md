@@ -18,7 +18,7 @@ Result:
 
 
 
-</br></br></br>///////// Strikethrough /////////
+</br></br></br></br></br></br>///////// Strikethrough /////////
 
 Usage:
 
@@ -30,7 +30,7 @@ Result:
 
 <s>hello world</s>
 
-</br></br></br>///////// Commented text /////////
+</br></br></br></br></br></br>///////// Commented text /////////
 ```
 <!-- This content will not appear in the rendered Markdown -->
 <!-- Commented text -->
@@ -39,7 +39,7 @@ Result:
 <!-- This content will not appear in the rendered Markdown -->
 
 
-</br></br></br>///////// Task Lists /////////
+</br></br></br></br></br></br>///////// Task Lists /////////
 ```
 - [x] task 1
 
@@ -50,7 +50,7 @@ Result:
 
 - [ ] task 2
 
-</br></br></br>///////// Insert image /////////
+</br></br></br></br></br></br>///////// Insert image /////////
 
 Image hostings:
 
@@ -101,7 +101,7 @@ also you can use `<img> html tag`
 
 
 
-</br></br></br>///////// Embed video /////////
+</br></br></br></br></br></br>///////// Embed video /////////
 
 Just insert direct link to mp4 video:
 
