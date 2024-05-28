@@ -1,3 +1,26 @@
+///////// Collapsable block /////////
+
+Usage:
+```
+<details><summary>English translation</summary>
+
+```text
+Input:  I goes to school.
+Output: I go to school.
+</details>
+```
+
+Result:
+
+<details><summary>English translation</summary>
+
+```text
+Input:  I goes to school.
+Output: I go to school.
+```
+</details>
+
+
 ///////// Header /////////
 
 Usage:
