@@ -1,3 +1,13 @@
+///////// IMPORTANT /////////
+
+> [!IMPORTANT]  
+> This library is now archived as backtracing is built into Swift 5.9+
+
+```
+> [!IMPORTANT]  
+> This library is now archived as backtracing is built into Swift 5.9+
+```
+
 ///////// Collapsable block /////////
 
 Usage:
